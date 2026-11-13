@@ -27,7 +27,7 @@ Legal definitions are not repeated here; they live in the neighbouring privacy-l
 
 ## License
 
-MIT. Copyright 0xelitesystem 2026.
+MIT. Copyright RBL Industries LLC 2026.
 
 ## More
 
